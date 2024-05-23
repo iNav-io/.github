@@ -1,5 +1,4 @@
 # 🧭 iNav
-
 Indoor Navigating System made with Unity.
 
 ## index
@@ -12,7 +11,7 @@ Index of data source for iNav project.
 - Read .ply - binary_little_endian 1.0 format in C# -  [AppleBoiy/PLYReader.net](https://github.com/AppleBoiy/PLYReader.net)
 - Using unity AI as pathfinder and draw line to destination- [AppleBoiy/UnityAI-Pathfinder](https://github.com/AppleBoiy/UnityAI-Pathfinder)
 - Taking SnapShot and Resize images in AR - [wachirapong-n/SnapShot](https://github.com/wachirapong-n/SnapShot)
-- PLYReader in python - [pypi - Appleboiy/apeboiy==0.0.12a2](https://pypi.org/project/apeboiy/)
+- PLYReader in python - [pypi - Appleboiy/apeboiy.ply@0.0.12a2](https://pypi.org/project/apeboiy/)
 
 ### resources:
 - Shared files: [Github - iNav-io/common](https://github.com/iNav-io/common)
